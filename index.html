@@ -1,16 +1,23 @@
 <!doctype html>
-<html lang="">
+<html lang="fr">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" href="/favicon2.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="google-site-verification" content="j38Mr5aDjYrTNnPvtPYPZ0iKANaAXAucQI5xyd3AnfU" />
     <title>MICHON Valentin - Portfolio</title>
     <style>
-      html {
+      html,
+      body {
         height: 100%;
         margin: 0;
       }
-      body {
+      /* #app {
+        display: flex;
+        flex-direction: column;
+        min-height: 100%;
+      } */
+      #app {
         height: 100%;
         margin: 0;
         display: flex;
@@ -18,7 +25,7 @@
         justify-content: center;
         background: linear-gradient(to bottom right, rgb(133, 131, 244), rgb(218, 152, 236));
       }
-      #app {
+      #bloc {
         display: flex;
         background-color: rgb(9, 141, 230);
         border-radius: 50px;
@@ -37,7 +44,7 @@
           height 2s ease,
           font-size 2s ease;
       }
-      #app:hover {
+      #bloc:hover {
         width: 640px;
         height: 240px;
         font-size: 28px;
@@ -66,21 +73,28 @@
   </head>
   <body>
     <div id="app">
-      Portfolio en cours de développement...
-      <br />
-      Revenez bientôt pour apprendre à me connaître ! 😉
+      <div id="bloc">
+        Portfolio en cours de développement...
+        <br />
+        Revenez bientôt pour apprendre à me connaître ! 😉
+      </div>
+      <div id="contact">
+        <a href="https://www.linkedin.com/in/valentin-michon-02a2b3327" target="_blank">
+          <img
+            class="ph1"
+            src="https://cdn-icons-png.freepik.com/512/4494/4494471.png"
+            alt="lien linkedin"
+          />
+        </a>
+        <a href="mailto:valentinmichon2005@gmail.com">
+          <img
+            class="ph2"
+            src="https://cdn-icons-png.freepik.com/512/9068/9068649.png"
+            alt="valentinmichon2005@gmail.com"
+          />
+        </a>
+      </div>
     </div>
-    <div id="contact">
-      <a href="https://www.linkedin.com/in/valentin-michon-02a2b3327" target="_blank">
-        <img
-          class="ph1"
-          src="https://cdn-icons-png.freepik.com/512/4494/4494471.png"
-          alt="lien linkedin"
-        />
-      </a>
-      <a href="mailto:valentinmichon2005@gmail.com">
-        <img class="ph2" src="https://cdn-icons-png.freepik.com/512/9068/9068649.png" alt="mail" />
-      </a>
-    </div>
+    <!-- <script type="module" src="/src/main.js"></script> -->
   </body>
 </html>
