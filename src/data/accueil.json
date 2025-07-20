@@ -1,0 +1,26 @@
+{
+  "presentation": [
+    "Je m'appelle MICHON Valentin, j'ai 20 ans et suis actuellement en deuxième année de BTS SIO (Services Informatiques aux Organisations) option SLAM (Solution Logicielles et Applications Métiers).",
+    "A la suite de mon Bac ST2S (Sciences et Technologies de la Santé et du Social), je souhaitais faire une licence de psychologie, puis un master dans ce même domaine pour devenir psychologue, or je me suis rendu compte que ce métier ne me correspondait pas vraiment.",
+    "Alors j'ai décidé de me reconvertir pour faire une formation qui me plairait davantage : l'informatique ! Malgré tout je n'oublie pas cet attrait pour la santé et le social..."
+  ],
+  "avenir": "Aujourd'hui, mon objectif futur est d'allier ce qui me plaît avec mes valeurs, c'est pourquoi j'ai pour projet de travailler en informatique au service de la santé. Par exemple réaliser des applications médicales, concevoir des dispositifs connectés tels que des glucomètres ou autres technologies plus innovantes comme les interfaces cerveau-machine (BCI).",
+  "interets": [
+    {
+      "nom": "Musique",
+      "description": "Je trouve que les instruments sont des outils qui rendent la musique magique. J'ai donc acquis il y a quelques années un piano pour apprendre à en jouer et arriver à reproduire ces sons qui sont si agréables à l'oreille. J'ai appris progressivement, non pas le solfège, mais à jouer des morceaux spécifiques avec une méthode qui consiste simplement à retenir les notes à jouer les unes après les autres, les écarts de temps entre les notes... jusqu'à pouvoir jouer ce morceau sans aucune aide !"
+    },
+    {
+      "nom": "Jeux de société",
+      "description": "J'ai toujours adoré les jeux de société car ceux-ci stimulent mon cerveau et me premettent de me creuser les méninges. Que ce soit jeux de cartes ou de plateau, s'ils testent mes capacités visuelles, auditives, de logique ou encore de rapidité, alors je suis partant pour un jeu !"
+    },
+    {
+      "nom": "Jeux vidéo",
+      "description": "De la même manière que les jeux de société, les jeux vidéo me permettent à la fois de réfléchir tout en me posant tranquillement après une bonne journée de travail. Ils sont aussi un bon moyen d'oublier un peu le quotidien en se plongeant dans des histoires fictives, impossibles dans le monde réel."
+    },
+    {
+      "nom": "Animation",
+      "description": "Ce plaisir de jouer et d'apprendre m'a donné envie de le transmettre aux futures générations. Mais surtout, je souhaite aussi inculquer à tous, la nécessité d'apprendre à vivre en collectivité, se soutenir, s'entraider et se respecter. Ce sont pour moi de grandes valeurs qui m'ont poussées à passer le BAFA. Il m'a permis d'encadrer et faire de l'animation en centres de loisirs pour jeunes passant par la créativité, le sport, la cuisine ou même l'actualité."
+    }
+  ]
+}

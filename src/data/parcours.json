@@ -1,0 +1,22 @@
+{
+  "formations": [
+    {
+      "nom": "BTS SIO",
+      "apercu": "Formation en informatique professionnalisante.",
+      "description": "J'ai réalisé un BTS SIO option SLAM à l'ESUPEC Sainte-Marie à Cholet. Il m'a permis d'acquérir de solides connaissances théorique mais aussi des compétences techniques à travers nos différents projets",
+      "date": "2024-aujourd'hui"
+    },
+    {
+      "nom": "Licence 1 de psychologie",
+      "apercu": "Formation théorique en psychologie sur des aspects cognitifs, dévelopementaux, comportementaux, sociaux, neurologiques, biologiques...",
+      "description": "",
+      "date": "2023-2024"
+    },
+    {
+      "nom": "BAC ST2S",
+      "apercu": "Formation en administratif santé et en biophysiopathologie humaine",
+      "description": "",
+      "date": "2020-2023"
+    }
+  ]
+}
